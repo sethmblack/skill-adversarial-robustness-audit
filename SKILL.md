@@ -1,11 +1,10 @@
 ---
 name: adversarial-robustness-audit
-description: Evaluate an ML system's vulnerability to adversarial examples using techniques
-  from Ian Goodfellow's research, identifying weaknesses and recommending mitigations.
+description: Evaluate an ML system's vulnerability to adversarial examples using techniques from Ian Goodfellow's research, identifying weaknesses and recommending mitigations.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - adversarial-robustness-audit
 - compression
