@@ -3,7 +3,7 @@ name: adversarial-robustness-audit
 description: Evaluate an ML system's vulnerability to adversarial examples using techniques from Ian Goodfellow's research, identifying weaknesses and recommending mitigations.
 license: MIT
 metadata:
-  version: 1.0.3344
+  version: 1.0.3345
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
